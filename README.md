@@ -13,3 +13,12 @@ Hyderabad is my favorite spot beacuse for many reasons.First reason, hyderabad i
 * Sea food
 
 click [here](MyStats.md) to open MyStats file.
+
+# Tables
+Sports help children develop physical skills, get exercise, make friends, have fun, learn teamwork, learn to play fair, and improve self-esteem. 
+| Name | Reason | Hours in a week |
+|      |        |                 |
+| Volleyball | Arm Strength and Endurance | 10 |
+| Badminton |   boosts up your muscles | 08 |
+| Cricket | improve hand-eye coordination | 05 |
+| Basketball |  increases overall self-esteem | 05 |
