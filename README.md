@@ -12,4 +12,4 @@ Hyderabad is my favorite spot beacuse for many reasons.First reason, hyderabad i
 * Pasta
 * Sea food
 
-click [here](MyStats.md) to open MyStats.md file.
+click [here](MyStats.md) to open MyStats file.
