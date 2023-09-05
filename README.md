@@ -29,3 +29,22 @@ Sports help children develop physical skills, get exercise, make friends, have f
 > Work is Workship - *Einstein*
 
 >  The greatest glory in living lies not in never falling, but in rising every time we fall - *Jeffreson*
+
+###### Code fencing
+> Cannot close code block by standard fence when you start code with an extra ` (backtick) [closed]
+
+<https://meta.stackoverflow.com/questions/409127/cannot-close-code-block-by-standard-fence-when-you-start-code-with-an-extra-b>
+
+###### Search/Replace
+```
+jQuery(function () { 
+    jQuery(":contains(FIND)").not(":has(:contains(FIND))").each(function () { 
+        var that = $(this), 
+            html = that.html(); 
+         
+        html = html.replace(/(\(FIND:.*?\))/g, "REPLACE-WITH"); 
+        that.html(html); 
+    }); 
+});
+```
+<https://css-tricks.com/snippets/jquery/search-replace/>
