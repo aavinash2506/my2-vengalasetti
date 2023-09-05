@@ -23,3 +23,7 @@ Sports help children develop physical skills, get exercise, make friends, have f
 | Badminton |   boosts up your muscles | 08 |
 | Cricket | improve hand-eye coordination | 05 |
 | Basketball |  increases overall self-esteem | 05 |
+
+### Quotes
+ > Work is Workship - *Einstein*
+ > The greatest glory in living lies not in never falling, but in rising every time we fall - *Jeffreson*
